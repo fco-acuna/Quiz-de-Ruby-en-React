@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+.question-card {
+  margin: 0 auto;
+  background-color: grey;
+  padding: 16px;
+  border-radius: 16px;
+  color: white;
+  width: 80%;
+  height: auto;
+  -webkit-box-shadow: 10px 7px 24px -3px rgba(133,124,133,0.59);
+  -moz-box-shadow: 10px 7px 24px -3px rgba(133,124,133,0.59);
+  box-shadow: 10px 7px 24px -3px rgba(133,124,133,0.59);
+}
+
+ul {
+  list-style: none;
+}
+
+li
+
+{
+  background-color: darkgray;
+  padding: 16px;
+  border: 3px solid white;
+  border-radius: 20px;
+  font-size: 20px;
+  margin-top: 8px;
+}
+
+.pregunta {
+  font-size: 50px;
+}
+
+.final-results {
+  margin: 0 auto;
+  background-color: grey;
+  padding: 16px;
+  border-radius: 16px;
+  color: white;
+  width: 80%;
+  height: auto;
+  -webkit-box-shadow: 10px 7px 24px -3px rgba(133,124,133,0.59);
+  -moz-box-shadow: 10px 7px 24px -3px rgba(133,124,133,0.59);
+  box-shadow: 10px 7px 24px -3px rgba(133,124,133,0.59);
+}
+
+button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 16px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 24px;
+}
