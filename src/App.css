@@ -30,6 +30,12 @@ li
   margin-top: 8px;
 }
 
+li:hover
+{
+  background-color: grey;
+  cursor: pointer;
+}
+
 .pregunta {
   font-size: 50px;
 }
